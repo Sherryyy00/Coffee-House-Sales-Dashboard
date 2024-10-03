@@ -35,7 +35,8 @@ This Power BI dashboard was created to provide an easy-to-understand overview of
 - Analyze sales trends and profit performance.
 
 ## Screenshot
-![Sales Dashboard](E:\WORK\Power BI\coffee_sales.png)
+![Sales Dashboard](![Uploading coffee_sales.PNG…]()
+)
 
 ## Tools & Technologies
 - **Power BI**: Data visualization and business intelligence.
