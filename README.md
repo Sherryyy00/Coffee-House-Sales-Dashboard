@@ -6,7 +6,7 @@ Power BI Sales Dashboard for The Coffee House: An interactive and insightful sal
 ## Overview
 This repository contains a comprehensive sales dashboard created using Power BI for "The Coffee House." The dashboard provides insights into key performance metrics such as sales, cost of goods sold (COGS), total expenses, and profit. It also includes detailed visualizations to analyze sales and profit by product type and region, as well as performance against profit targets.
 
-![Sales Dashboard Screenshot](path/to/your/dashboard-image.png)
+![Sales Dashboard Screenshot](E:\WORK\Power BI\coffee_sales.png)
 
 ## Key Features
 - **Total Sales:** $820K
@@ -18,7 +18,7 @@ This repository contains a comprehensive sales dashboard created using Power BI 
 - **Profit Analysis (Actual vs. Target):** Visualization of actual profit compared to budgeted targets.
 
 ## Files in the Repository
-- `Sales-Dashboard.pbix`: The Power BI Desktop file for the sales dashboard.
+- `Sales Dashboard-P3.pbix`: The Power BI Desktop file for the sales dashboard.
 - `README.md`: Project overview, features, and file descriptions.
 - `dashboard-image.png`: A screenshot of the sales dashboard (add this to visually show the dashboard in your README).
 
@@ -34,7 +34,7 @@ This Power BI dashboard was created to provide an easy-to-understand overview of
 - Analyze sales trends and profit performance.
 
 ## Screenshot
-![Sales Dashboard](path/to/your/dashboard-image.png)
+![Sales Dashboard](E:\WORK\Power BI\coffee_sales.png)
 
 ## Tools & Technologies
 - **Power BI**: Data visualization and business intelligence.
