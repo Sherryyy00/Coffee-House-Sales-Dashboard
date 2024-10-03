@@ -6,7 +6,8 @@ Power BI Sales Dashboard for The Coffee House: An interactive and insightful sal
 ## Overview
 This repository contains a comprehensive sales dashboard created using Power BI for "The Coffee House." The dashboard provides insights into key performance metrics such as sales, cost of goods sold (COGS), total expenses, and profit. It also includes detailed visualizations to analyze sales and profit by product type and region, as well as performance against profit targets.
 
-![Sales Dashboard Screenshot](E:\WORK\Power BI\coffee_sales.png)
+![Sales Dashboard Screenshot](![coffee_sales](https://github.com/user-attachments/assets/c6c4f6a2-b0b9-428a-af9c-fd36502ce883)
+)
 
 ## Key Features
 - **Total Sales:** $820K
