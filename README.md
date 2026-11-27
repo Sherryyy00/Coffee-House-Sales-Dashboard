@@ -20,26 +20,25 @@ This repository contains a comprehensive sales dashboard created using Power BI 
 ## Files in the Repository
 - `Sales Dashboard-P3.pbix`: The Power BI Desktop file for the sales dashboard.
 - `README.md`: Project overview, features, and file descriptions.
-- `dashboard-image.png`: A screenshot of the sales dashboard (add this to visually show the dashboard in your README).
+- `Sales_Coffee.PNG`, `coffee_sales.PNG`: Dashboard screenshots.
 
 ## About the Dashboard
 This Power BI dashboard was created to provide an easy-to-understand overview of sales performance, highlight the best-selling products and regions, and assess profit performance against targets. The visuals and insights can help stakeholders make data-driven decisions and optimize strategies.
 
 ## How to Use
 1. **Clone or download the repository:**
-2.  **Open the `.pbix` file in Power BI Desktop.**
+   ```bash
+   git clone https://github.com/Sherryyy00/Coffee-House-Sales-Dashboard.git
+   ```
+2. **Open `Sales Dashboard-P3.pbix` in Power BI Desktop.**
 
 3. **Explore and interact with the dashboard:**
 - Use filters to adjust the timeframe and focus on specific regions or products.
 - Analyze sales trends and profit performance.
 
 ## Screenshot
-![Sales Dashboard](Sales_Coffee.PNG)
+![Coffee sales detail](coffee_sales.PNG)
 
 ## Tools & Technologies
 - **Power BI**: Data visualization and business intelligence.
 - **Data Sources**: Sales data for The Coffee House.
-
-
-
-
